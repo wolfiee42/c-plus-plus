@@ -1,1 +1,2 @@
-Odd
+Minimum Number: 10
+Maximum Number: 11
