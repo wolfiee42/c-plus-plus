@@ -7,4 +7,5 @@ int main()
     // scanf("%d %d", &a, &b);
     cin >> a >> b; // scanf alternative "cin"
     cout << a << " " << b << endl;
+    return 0;
 }
