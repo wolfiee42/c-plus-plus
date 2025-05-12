@@ -13,13 +13,11 @@ int main ()
 		cin >> number;
 		for(int j=4;j >=0;j--)
 		{
-
 			int num = number;
 			int x = num % 10;
 			number = num / 10;
 			arr[j] = x;
 		}
-
 
 		int summaton = arr[4]+arr[0];
 		cout << "Sum" << " = " << summaton<<endl;
