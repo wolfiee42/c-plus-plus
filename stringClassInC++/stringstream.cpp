@@ -11,13 +11,13 @@ int main ()
   ss << a;
   string word;
 
-int count =0;
+  int count =0;
   while(ss >> word)
   {
   	cout << word << endl;
   	count++;
   }
 
-cout << count << endl;
+  cout << count << endl;
   return 0;
 }
